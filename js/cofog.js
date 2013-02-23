@@ -9,20 +9,20 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
 	/* yokohama cofog */
-	'01': { icon: 'icons/helping-others.svg', color: '#C75746' },			/* åíçNïüéÉ */
-		'01.1': { icon: 'icons/helping-others.svg', color: '#C75746' },		/* A1 åíçN */
-		'01.2': { icon: 'icons/helping-others.svg', color: '#C75746' },		/* A2 ïüéÉ */
+	'01': { icon: 'icons/c_kenkou_fukushi.svg', color: '#C75746' },			/* åíçNïüéÉ */
+		'01.1': { icon: 'icons/c_kenkou.svg', color: '#C75746' },		/* A1 åíçN */
+		'01.2': { icon: 'icons/c_fukushi.svg', color: '#C75746' },		/* A2 ïüéÉ */
 
 	'02': { icon: 'icons/schools.svg', color: '#C75746' },					/* éqàÁÇƒÅEã≥àÁ */
 		'02.1': { icon: 'icons/pre-school.svg', color: '#C75746' },			/* Ç±Ç«Ç‡ê¬è≠îN */
-			'02.1.1': { icon: 'icons/pre-school.svg', color: '#C75746' },	/* B1 éqàÁÇƒéxâá */
-			'02.1.2': { icon: 'icons/pre-school.svg', color: '#C75746' },	/* B2 éQâÊÅEàÁê¨ */
-			'02.1.3': { icon: 'icons/pre-school.svg', color: '#C75746' },	/* B3 ó{åÏ */
+			'02.1.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 éqàÁÇƒéxâá */
+			'02.1.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 éQâÊÅEàÁê¨ */
+			'02.1.3': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 ó{åÏ */
 		'02.2': { icon: 'icons/education.svg', color: '#C75746' },			/* B4 ã≥àÁ */
 		
 	'03': { icon: 'icons/economy-tourism.svg', color: '#C75746' },			/* åoçœÅEäœåı */
-		'03.1': { icon: 'icons/farms.svg', color: '#C75746' },				/* C1 î_ã∆ */
-		'03.2': { icon: 'icons/dollar.svg', color: '#C75746' },				/* C2 è§çHã∆ */
+		'03.1': { icon: 'icons/c_nougyou.svg', color: '#C75746' },				/* C1 î_ã∆ */
+		'03.2': { icon: 'icons/c_syoukougyou.svg', color: '#C75746' },				/* C2 è§çHã∆ */
 		'03.3': { icon: 'icons/harbor.svg', color: '#C75746' },				/* C3 äœåı */
 
 	'04': { icon: 'icons/our-streets.svg', color: '#C75746' },				/* Ç‹ÇøÇ√Ç≠ÇË */
@@ -36,18 +36,18 @@ OpenSpending.Styles.Cofog = {
 
 	'06': { icon: 'icons/civilian-action.svg', color: '#C75746' },			/* ésñØ */
 		'06.1': { icon: 'icons/civilian-action.svg', color: '#C75746' },	/* F1 é©é° */
-		'06.2': { icon: 'icons/culture.svg', color: '#C75746' },			/* F2 ï∂âª */
+		'06.2': { icon: 'icons/c_bunnka.svg', color: '#C75746' },			/* F2 ï∂âª */
 		
-	'07': { icon: 'icons/traffic-watersup.svg', color: '#C75746' },			/* è„â∫êÖìπ */
-		'07.1': { icon: 'icons/traffic-watersup.svg', color: '#C75746' },	/* G1 è„êÖìπ */
-		'07.2': { icon: 'icons/traffic-watersup.svg', color: '#C75746' },	/* G2 â∫êÖìπ */
+	'07': { icon: 'icons/c_waterdoun-watersup.svg', color: '#C75746' },			/* è„â∫êÖìπ */
+		'07.1': { icon: 'icons/c_watersup.svg', color: '#C75746' },	/* G1 è„êÖìπ */
+		'07.2': { icon: 'icons/c_waterdoun.svg', color: '#C75746' },	/* G2 â∫êÖìπ */
 
-	'08': { icon: 'icons/government.svg', color: '#C75746' },				/* ê≠çÙ */
-		'08.1': { icon: 'icons/publicaffairs.svg', color: '#C75746' },		/* H1 ê≠çÙ */
-		'08.2': { icon: 'icons/government.svg', color: '#C75746' },			/* H2 ëçñ± */
+	'08': { icon: 'icons/c_government4.svg', color: '#C75746' },				/* ê≠çÙ */
+		'08.1': { icon: 'icons/c_government4.svg', color: '#C75746' },		/* H1 ê≠çÙ */
+		'08.2': { icon: 'icons/publicaffairs.svg', color: '#C75746' },			/* H2 ëçñ± */
 
-	'09': { icon: 'icons/order-safety.svg', color: '#C75746' },				/* è¡ñhÅEñhç– */
-		'09.1': { icon: 'icons/order-safety.svg', color: '#C75746' },		/* O1 è¡ñh */
-		'09.2': { icon: 'icons/order-safety.svg', color: '#C75746' },		/* O2 ñhç– */
+	'09': { icon: 'icons/c_syoubou_bousai.svg', color: '#C75746' },				/* è¡ñhÅEñhç– */
+		'09.1': { icon: 'c_shyoubou.svg', color: '#C75746' },		/* O1 è¡ñh */
+		'09.2': { icon: 'icons/c_bousai.svg', color: '#C75746' },		/* O2 ñhç– */
 
 };
